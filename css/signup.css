@@ -1,0 +1,39 @@
+body{
+ margin: 0;
+ background-image: url("../img/secretDevLogoWhite.png");
+ background-repeat: no-repeat;
+ background-size: 100% 160%;
+}
+ 
+.container{
+ width: 500px;
+ height: 700px;
+ text-align: center;
+ margin: 0 auto;
+ background-color: rgba(44, 62, 80,0.7);
+ margin-top: 160px;
+}
+ 
+.container img{
+ width: 150px;
+ height: 150px;
+ margin-top: -60px;
+}
+ 
+input[type="text"],input[type="password"]{
+ margin-top: 40px;
+ height: 45px;
+ width: 400px;
+ font-size: 18px;
+ margin-bottom: 20px;
+ background-color: #fff;
+ text-align: center
+}
+ 
+ 
+.btn-login{
+ padding: 15px 25px;
+ border: none;
+ background-color: #27ae60;
+ color: #fff;
+}

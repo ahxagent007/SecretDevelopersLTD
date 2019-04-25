@@ -1,0 +1,327 @@
+/*footer*/
+.x-footer{
+    padding: 10px;
+    text-align: center;
+    background: #000000;
+    color: aliceblue;
+}
+
+/*navbar*/
+.navbar{
+    background: #000000;
+    color: aliceblue;  
+    
+}
+
+#img-secret img{
+    width: 100%;
+    padding: 30px;
+    
+}
+
+#secret-text{
+    padding: 50px;
+    font-size: 1.1em;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#pic-anonymous{
+    width: 100%;
+}
+
+#anonymous-text{
+    background: #25262c;
+    color: aliceblue;
+    text-align: center;
+    padding: 50px;
+}
+
+.singinsungup{
+    padding: 10px;    
+    margin: 10px;
+}
+
+#propic img{
+    width: 100%;
+    margin: 20px;
+
+}
+/*Waht we do*/
+
+.xperties{
+    margin: auto;
+    padding: 50px;
+    width: 80%
+}
+
+.xperties img{
+    padding: 35px;
+    width: 100%;
+    margin: auto;
+
+}
+
+.xperties h4{
+    text-align: center;
+}
+
+.abt-us{
+    padding: 20px;
+}
+
+.abt-us-txt h4,h2{
+    text-align: center;
+}
+
+
+.abt-us img{
+    padding: 20px;
+}
+/*User profile*/
+.change-info input{
+    
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.change-info{
+
+    padding: 20px;
+    margin: auto;
+}
+
+.change-info-btn{
+    text-align: center;
+
+}
+
+.user-nav-bar button{
+    width: 100%;
+    margin: 5px;
+}
+
+#propic{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.user-nav-bar h3{
+    text-align: center;
+}
+
+.change-info-div{
+    margin: auto
+}
+
+.user-info{
+    padding: 20px;
+}
+
+.user-info h3{
+    background: #d8d8d8;
+    padding: 5px 0px 5px 5px;
+}
+
+/*NEWS*/
+.post{
+    background: #000000;
+    margin: 30px;
+}
+
+.post-image{
+    margin: auto;
+}
+
+.post img{
+    width: 100%;
+    margin: auto;
+    padding: 30px;
+}
+
+.post-head h3{
+    background: #303030;
+    color: #cccccc;
+    padding: 8px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.post-message{
+    background: #4f4f4f;
+    padding: 20px;
+    text-align: left;
+    color: aliceblue;
+    margin: 20px;
+    
+}
+
+/*ADD POST*/
+.head-tag{
+    background: #000000;
+    color: darkgrey;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.head-tag h1{
+    font-weight: bold;
+}
+
+.x-input{
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+
+}
+.x-input input{
+    width: 80%;
+
+}
+
+.x-input textarea{
+    width: 80%;
+}
+
+.x-input button{
+    
+    margin: auto;
+
+}
+
+.post-details{
+    margin: auto;
+}
+
+.post-details ul{
+    list-style: none;
+    font-size: 1.5em;
+}
+
+
+/*SEND MESSAGE TO ADMIN*/
+.plain-text-post-container{
+    background: #ededed;
+}
+
+.plain-text-post{
+    padding: 20px;
+    text-align: center;
+}
+
+.message-post-img img{
+    width: 100%;
+    padding: 5px;
+}
+
+/*ADMIN MESSAGES*/
+
+table#t01 {
+    width: 100%; 
+    background-color: #f1f1c1;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+    background-color: #fff;
+}
+table#t01 th {
+    color: white;
+    background-color: black;
+}
+
+
+
+/*ASHIKSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS*/
+
+
+#lst{
+    
+    list-style-type: square;
+    
+}
+
+#l1{
+    padding: 5%;
+    background-color: gainsboro;
+    
+}
+
+ul#inline li {
+    display:inline;
+}
+
+#layer1{
+    
+    padding: 5%;
+    height: 1000px;
+}
+
+#do{
+    
+    padding-top: 30% ;
+    
+}
+
+#logo{
+    padding-top: 5%;
+    padding-left: 10%;
+    
+}
+
+.image-container{
+    text-align:center;
+}
+
+#layer2{
+    padding: 5%;
+    background-color: #e9e9f1;
+    
+}
+
+#layer3{
+    
+    padding: 6%;    
+    background-color: #f4d773;
+}
+
+#wwdl1{
+    
+    padding: 3%;
+    
+}
+
+#wwdl2{
+    width: 100%;
+    padding: 3%;
+}
+
+
+#wwdl2{
+    width: 100%;
+    background-color: gainsboro;
+}
+
+/*ADMIN MEMBER LIST*/
+.userpic img{
+    width: 50px;
+}
+
+.pleaselogin img{
+    width: 100%;
+}
+
+
+.xmaps{
+    text-align: center;
+}

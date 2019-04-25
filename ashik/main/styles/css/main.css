@@ -1,0 +1,49 @@
+#lst{
+    
+    list-style-type: square;
+    
+}
+
+#l1{
+    padding: 5%;
+    background-color: gainsboro;
+    
+}
+
+ul#inline li {
+    display:inline;
+}
+
+#layer1{
+    
+    padding: 5%;
+    height: 1000px;
+}
+
+#do{
+    
+    padding-top: 30% ;
+    
+}
+
+#logo{
+    padding-top: 5%;
+    padding-left: 10%;
+    
+}
+
+.image-container{
+    text-align:center;
+}
+
+#layer2{
+    padding: 5%;
+    background-color: #e9e9f1;
+    
+}
+
+#layer3{
+    
+    padding: 6%;    
+    background-color: #f4d773;
+}
